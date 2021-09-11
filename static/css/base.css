@@ -1,0 +1,45 @@
+body {
+    text-align: center;
+    padding 5px 5%;
+    background-image: url('../img/img_bg_dark_2.jpg');
+    background-size: 100%;
+    color: red;
+    font: 20px 'Chiller';
+}
+
+header>h1 {
+    color: lime;
+    text-shadow: 2px 2px yellow;
+    font-size: 130px;
+}
+
+nav {
+    padding 5px;
+}
+
+nav a {
+    color: bisque;
+    text-decoration: none;
+    padding: 10px;
+}
+
+.left {
+    text-align: left;
+}
+
+.right {
+    text-align: right;
+}
+
+header {
+    padding-top: 30px;
+}
+
+footer>h4 {
+    position: absolute;
+    bottom: 1em;
+    right: 1em;
+    text-align: right;
+    color: yellow;
+    font-size: 25px;
+}
